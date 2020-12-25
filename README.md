@@ -1,2 +1,2 @@
-# first-demo
-first spring demo project with git
+# first-spring-boot-project
+first spring boot demo project with git
